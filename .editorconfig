@@ -1,0 +1,11 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*] # Especificando que essa regra é para todos os arquivos
+indent_style = space # Quando houver identação será por space e não por tab
+indent_size = 2 # convenção javascript para espaçamento
+
+
+
